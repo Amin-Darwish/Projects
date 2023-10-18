@@ -1,3 +1,5 @@
 This project is about controlling server room Temperature which has 2 air conditioner. 
-My target is to control the time of running Ac1 & Ac2 by switching between them when  they When it reach  the specified time, And it also obtains readings of various variables, such as door closing and humidity levels. If the temperature rises above 28, for example, it triggers an alarm. 
+My target is to control the time of running Ac1 & Ac2 by switching between them when they reach the specified time.
+And it also obtains readings of various variables, such as door closing and humidity levels. If the temperature rises above 28, for example, it triggers an alarm. 
+
 
